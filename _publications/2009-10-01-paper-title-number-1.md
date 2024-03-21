@@ -1,7 +1,7 @@
 ---
 title: "Patterns of vehicle lights: Addressing complexities of camera-based vehicle light datasets and metrics."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: https://www.sciencedirect.com/science/article/pii/S0167865524000047
 excerpt: 'This paper explores the representation of vehicle lights in computer vision and its implications for various pattern recognition tasks in autonomous driving.'
 date: 2024-02-01
 venue: 'Pattern Recognition Letters'
