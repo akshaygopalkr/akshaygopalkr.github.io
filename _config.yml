@@ -212,6 +212,12 @@ collections:
 defaults:
   # _posts
   # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
   # _teaching
   # _publications
   - scope:
