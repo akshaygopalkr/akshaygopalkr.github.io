@@ -21,7 +21,7 @@ repository               : "akshaygopalkr/akshaygopalkr.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_0839.JPG"
   name             : "Akshay Gopalkrishnan"
   pronouns         : he/him/his  
   bio              : "Short biography for the left-hand sidebar"
@@ -237,7 +237,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  _publications
+  # _publications
   - scope:
       path: ""
       type: publications
