@@ -9,6 +9,7 @@ You can also find my research articles [on my Google Scholar profile](https://sc
 
 ## 2024
 * Ross Greer, **Akshay Gopalkrishnan**, Maitrayee Keskar, Mohan Trivedi, “[Patterns of Vehicle Lights: Addressing Complexities in Curation and Annotation of Camera-Based Vehicle Light Datasets and Metrics](https://www.sciencedirect.com/science/article/pii/S0167865524000047)” Pattern Recognition Letters, 2024.
+
 ## 2023
 * **Akshay Gopalkrishnan**, Ross Greer, Maitrayee Keskar, Mohan Trivedi, “[Robust Detection, Association, and Localization of Vehicle Lights: A Context-Based Cascaded CNN Approach and Evaluations](https://arxiv.org/abs/2307.14521)” arXiv preprint, 2023.
 * Ross Greer, **Akshay Gopalkrishnan**, Nachiket Deo, Akshay Rangesh, Mohan Trivedi, "[Salient Sign Detection in Safe Autonomous Driving: AI Which Reasons Over Full Visual Context](https://arxiv.org/abs/2301.05804)" 27th Enhanced Safety of Vehicles Conference, 2023.
