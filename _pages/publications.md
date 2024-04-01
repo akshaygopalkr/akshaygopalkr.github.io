@@ -8,6 +8,7 @@ author_profile: true
 You can also find my research articles [on my Google Scholar profile](https://scholar.google.com/citations?user=YStWLX8AAAAJ&hl=en)
 
 ## 2024
+* **Akshay Gopalkrishnan**, Ross Greer, Mohan Trivedi, "[Multi-Frame, Lightweight & Efficient Vision-Language Models for Question Answering in Autonomous Driving](https://arxiv.org/abs/2403.19838)" Under Review, CVPR 2024 Vision and Language for Autonomous Driving and Robotics, 2024.
 * Ross Greer, **Akshay Gopalkrishnan**, Maitrayee Keskar, Mohan Trivedi, “[Patterns of Vehicle Lights: Addressing Complexities in Curation and Annotation of Camera-Based Vehicle Light Datasets and Metrics](https://www.sciencedirect.com/science/article/pii/S0167865524000047)” Pattern Recognition Letters, 2024.
 
 ## 2023
