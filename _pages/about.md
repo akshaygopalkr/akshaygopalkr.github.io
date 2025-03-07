@@ -11,4 +11,4 @@ I am a 2nd year Computer Science MS Student at UC San Diego graduating this June
 
 In my free time, I am an assistant coach for the UC San Diego Men's Club Basketball Team, collect vinyls, run, and watch football and basketball (Go Lakers and 49ers!). I also have mentored high-school students pursuing AI research projects through [Polygence](https://www.polygence.org/).
 
-Update: Starting in May, I'll be joining the [NomadicML](https://www.nomadicml.com/) in San Francisco to work as a Founding Machine Learning Engineer. I'm excited to work on developing AI-agents for ultra-specific video analysis :)
+Update: Starting in May, I'll be joining [NomadicML](https://www.nomadicml.com/) in San Francisco to work as a Founding Machine Learning Engineer. I'm excited to work on developing AI-agents for ultra-specific video analysis :)
